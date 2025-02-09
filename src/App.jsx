@@ -21,7 +21,7 @@ const ValentineRetreat = () => {
               חגיגת Valentine
             </h1>
             <p className="text-xl sm:text-2xl text-gray-600 mb-8">
-              חוגגים יום של אהבה בריטריט יום שמוקדש כולו לאהבה לעצמנו, לטבע, לעולם ולסובבים אותנו
+              חוגגים אהבה בריטריט יום שמוקדש כולו לאהבה לעצמנו, לטבע, לעולם ולסובבים אותנו
             </p>
             <p className="text-lg text-gray-600 mb-10">
               הזדמנות לצלול פנימה ולהעמיק את היחסים והחיבור שלנו לעצמנו ולעולם, לפתוח ולהרחיב את הלב ולאפשר לעוד אור ואהבה להכנס ולצאת ולחלוק אותו בקבוצה אינטימית של אנשים יפים וטובים
@@ -143,7 +143,7 @@ const ValentineRetreat = () => {
             <DetailCard
               icon={<MapPin className="w-8 h-8 text-pink-500" />}
               title="איפה?"
-              description="הבית השיתופי COM-UNITY
+              description="קונספט המגורים COM-UNITY
 שדרות וושינגטון 20, תל אביב"
             />
           </div>
